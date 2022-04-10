@@ -16,7 +16,9 @@
 * chmod - helps in chaning permissions
 * ls -l - returns all the files with permissions
 * cd - changes the working directory
+* cat - print the contents of a file
 
+ * More commands can be found from [here](https://www.educative.io/blog/bash-shell-command-cheat-sheet)
 ## Working with vi editor
 
 * Step 1 : Type the command "vi vi <file-name>.<file-extension>" (if this file is already present it will open it otherwise it will create and open it)
